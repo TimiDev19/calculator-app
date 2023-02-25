@@ -37,11 +37,13 @@
 .display .input{
     font-size: 1.25rem;
     margin-bottom: 0.5rem;
+
 }
 
 .display .output{
     font-size: 3rem;
     font-weight: 700;
+    color: #EB6666;
     width: 100%;
     max-width: 100%;
     overflow: auto;
