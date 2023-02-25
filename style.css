@@ -95,10 +95,8 @@
 
 .keys .key.operator span{
     color: #EB6666;
-    background-color: red;
 }
 
 .keys .key.action span{
     color: #26FED7;
-    background-color: blue;
 }
